@@ -45,7 +45,7 @@ numSubjects = length(unique(S)[,1])
 numActivities = length(activities[,1])
 numCols = dim(cleaned)[2]
 result = cleaned[1:(numSubjects*numActivities), ]
-
+ 
 row = 1
 for (s in 1:numSubjects) {
     for (a in 1:numActivities) {
