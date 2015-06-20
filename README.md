@@ -1,2 +1,2 @@
 # Getting_and_Cleaning_Data
-This is a sample file
+This folder contains the output for the project work
